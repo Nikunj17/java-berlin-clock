@@ -13,7 +13,7 @@ import org.junit.Test;
  */
 public class BerlinClockFixture {
 
-    private TimeConverter berlinClock = new BerlinTimeConverter();
+    private TimeConverter berlinClock = new BerlinTimeConverter(); 
     private String theTime;
 
     @Test
